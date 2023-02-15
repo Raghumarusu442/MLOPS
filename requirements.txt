@@ -1,0 +1,25 @@
+# local package
+#-e .
+
+# external requirements
+click
+Sphinx
+coverage
+dvc
+dvc[gdrive]
+scikit-learn
+pandas
+pytest
+tox
+flake8
+gunicorn
+PyYAML
+mlflow
+evidently
+pydantic
+fastapi
+uvicorn
+streamlit
+gradio
+pandera
+python-dotenv>=0.5.1
